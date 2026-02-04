@@ -35,15 +35,17 @@ Set a task, start the timer, and stay focused — right in your browser's side p
 
 ## 📸 Screenshots
 
-> Add screenshots here: Setup → Focus → Completion → History
-
-<!--
 <div align="center">
-  <img src="docs/screenshots/setup.png" width="280" />
-  <img src="docs/screenshots/focus.png" width="280" />
-  <img src="docs/screenshots/history.png" width="280" />
+
+| Setup | Focus | Complete |
+|:---:|:---:|:---:|
+| <img src="assets/screenshots/Frame 1.png" width="240" /> | <img src="assets/screenshots/Frame 2.png" width="240" /> | <img src="assets/screenshots/Frame 3.png" width="240" /> |
+
+| History | Dark Mode |
+|:---:|:---:|
+| <img src="assets/screenshots/Frame 4.png" width="240" /> | <img src="assets/screenshots/Frame 5.png" width="240" /> |
+
 </div>
--->
 
 <br />
 
@@ -57,7 +59,7 @@ Set a task, start the timer, and stay focused — right in your browser's side p
 ### Install & Build
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/deep-flow.git
+git clone https://github.com/jchyng/deep-flow.git
 cd deep-flow
 npm install
 npm run build
